@@ -142,7 +142,7 @@
                       </div>
                     </div>
                     <div class="news__title">
-                      <span >{{$news[0]->$title}}</span>
+                      <span >{{$news[$i]->$title}}</span>
                     </div>
                   </div>
                 </div>
