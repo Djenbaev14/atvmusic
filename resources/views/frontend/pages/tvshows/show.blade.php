@@ -31,7 +31,7 @@
               <a href="{{route('frontend-show-news',$new->$slug)}}"></a>
               <img src="{{asset('images/'.$new->image)}}" alt="news image" />
               <div class="body">
-                <h3 class="title">
+                <h3 class="title" style="text-transform: uppercase;">
                   {{$new->$title}}
                 </h3>
               </div>

@@ -11,7 +11,7 @@
               <img src="{{asset('images/'.$new->image)}}" alt="news image" />
             </div>
             <div class="right body">
-              <p class="title">
+              <p class="title" style="text-transform: uppercase;">
                 {{$new->$title}}
               </p>
               <div class="time-box">

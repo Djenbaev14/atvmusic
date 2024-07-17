@@ -6,7 +6,7 @@
       <div class="content">
         <div class="section-title">
           <span class="desc">{{__('messages.news')}}</span>
-          <h3 class="title">
+          <h3 class="title" style="text-transform: uppercase;">
             {{$new->$title}}
           </h3>
         </div>
