@@ -251,7 +251,7 @@
   <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet">
   <style>
     .video-js .vjs-big-play-button{
-      left:50% !important;
+      left:45% !important;
       top:45% !important; 
       }
       #my-video{
