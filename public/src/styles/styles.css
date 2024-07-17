@@ -1138,6 +1138,10 @@ img {
   .section-live iframe {
     height: 500px !important;
   }
+
+  .section-news .news-grid_box {
+    padding: 0;
+  }
 }
 
 @media screen and (max-width: 768px) {
