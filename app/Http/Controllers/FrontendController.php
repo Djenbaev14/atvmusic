@@ -17,8 +17,8 @@ class FrontendController extends Controller
         $title='title_'.session()->get('locale');
         $body='body_'.session()->get('locale');
         $slug='slug_'.session()->get('locale');
-        $slides=Slide::orderBy('id','desc')->get();
-        $news=Treatments::orderBy('id','desc')->get();
+        $slides=Slide::orderBy('id','desc')->limit(5)->get();
+        $news=Treatments::orderBy('id','desc')->limit(4)->get();
         return view('frontend.pages.home',compact('slides','news','title','body','slug'));
     }
     public function news(){

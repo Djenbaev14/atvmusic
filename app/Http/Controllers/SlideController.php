@@ -17,7 +17,7 @@ class SlideController extends Controller
      */
     public function index()
     {
-        $slides = Slide::all();
+        $slides = Slide::orderBy('id','desc')->get();
         return view('components.slides', [
             'slides' => $slides
         ]);

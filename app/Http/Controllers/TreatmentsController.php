@@ -16,7 +16,7 @@ class TreatmentsController extends Controller
      */
     public function index()
     {
-        $treatments = Treatments::all();
+        $treatments = Treatments::orderBy('id','desc')->get();
         return view('components.treatments', [
             'slides' => $treatments
         ]);
