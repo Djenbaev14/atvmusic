@@ -1,6 +1,6 @@
 @extends('frontend.layouts.main')
 @section('main-content')
-{{-- <main class="main-content">
+<main class="main-content">
   <div class="container">
     <div class="content-inner">
       <div class="news-list">
@@ -27,7 +27,7 @@
       </div>
     </div>
   </div>
-</main> --}}
+</main>
 @endsection
 
 @push('css')
