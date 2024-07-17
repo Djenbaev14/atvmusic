@@ -142,7 +142,7 @@
                       </div>
                     </div>
                     <div class="news__title">
-                      <span style="text-transform: uppercase;">{{$news[0]->$title}}</span>
+                      <span >{{$news[0]->$title}}</span>
                     </div>
                   </div>
                 </div>
@@ -251,7 +251,7 @@
   <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet">
   <style>
     .video-js .vjs-big-play-button{
-      left:45% !important;
+      left:50% !important;
       top:45% !important; 
       }
       #my-video{
