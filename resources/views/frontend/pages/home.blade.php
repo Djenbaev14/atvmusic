@@ -2,7 +2,7 @@
 
 @section('main-content')
     <!-- Section Live -->
-    {{-- <section class="section-live">
+    <section class="section-live">
       <div class="container">
         <div class="section-title">
           <span class="desc">{{__('messages.our')}}</span>
@@ -38,7 +38,7 @@
        
         </div>
       </div>
-    </section> --}}aaaaa
+    </section>
     <!-- =================================== -->
     <!-- Section previews -->
     <section class="section-previews">
