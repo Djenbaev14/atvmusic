@@ -137,7 +137,7 @@
                     <div class="news-item_timeBox">
                       <div class="left">{{ $news[$i]->created_at->format('d') }}</div>
                       <div class="right">
-                        <p class="time">{{ $news[$i]->created_at->format('h:i') }}</p>
+                        <p class="time">{{ $news[$i]->created_at->format('H:i') }}</p>
                         <p class="month">{{ $news[$i]->created_at->format('F') }}</p>
                       </div>
                     </div>
