@@ -2,24 +2,12 @@
 
 @section('main-content')
     <!-- Section Live -->
-    <section class="section-live">
+    {{-- <section class="section-live">
       <div class="container">
         <div class="section-title">
           <span class="desc">{{__('messages.our')}}</span>
           <h3 class="title">{{__('messages.live')}}</h3>
         </div>
-        {{-- <div class="section-inner">
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/HmhiTJyk18c?si=Lc0SkoIZC8Q4B64x"
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
-            allowfullscreen
-          ></iframe>
-        </div> --}}
         
         <div class="live-efir">
           <style> 
@@ -50,7 +38,7 @@
        
         </div>
       </div>
-    </section>
+    </section> --}}
     <!-- =================================== -->
     <!-- Section previews -->
     <section class="section-previews">
