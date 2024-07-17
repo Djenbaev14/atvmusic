@@ -68,3 +68,32 @@
 .main-content .time {
   opacity: 0.7;
 }
+
+@media screen and (max-width: 992px) {
+  .news-box {
+    flex-direction: column;
+  }
+
+  .news-box .body {
+    gap: 20px;
+  }
+
+  .news-box img {
+    width: 100% !important;
+    object-fit: cover !important;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .news-box .right.body .title {
+    font-size: 14px !important;
+  }
+
+  .news-box .time-box .left {
+    font-size: 26px !important;
+  }
+
+  .news-box .time-box .right {
+    font-size: 12px !important;
+  }
+}

@@ -295,7 +295,6 @@ img {
 .section-previews {
   margin: 40px 0;
   padding: 60px 0;
-  
 }
 
 .section-previews .section-inner {
@@ -505,7 +504,6 @@ img {
 
 .section-news {
   margin: 80px 0;
-  
 }
 
 .section-news .section-title {
@@ -789,7 +787,7 @@ img {
   position: absolute;
   top: 85%;
   left: 50%;
-  transform: translate(-75%, -3px);
+  transform: translate(-75%, 0px);
 
   color: #999;
   border: 2px solid #999;
@@ -799,6 +797,8 @@ img {
   font-size: 24px;
   font-weight: 900;
   border-radius: 20px;
+
+  z-index: 15;
 
   transition: color 0.4s, border-color 0.4s;
 }
