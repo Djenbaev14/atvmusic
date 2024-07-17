@@ -17,6 +17,8 @@ return [
     'instant-news'=>'OPERATIV XABARLAR',
     'all_tele_projects'=>'Barlıq Telekórsetiwler',
     'see'=>'Kóriw',
+    'choose_language'=>'Tildi saylań',
+    'favorite'=>'ARDAQLÍ',
 
     'numbers-report'=>'ÁMIWDARYATV TELEKANALÍ SANLAR ESABATÍ ',
     'item-sub-heading-1'=>'Ózbekstan Respublikası Málimleme texnologiyaları hám kommunikaciyaların rawajlandırıw ministrligi tárepinen berilgen',

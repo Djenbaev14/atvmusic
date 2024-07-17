@@ -17,6 +17,8 @@ return [
     'instant-news'=>'TEZKOR XABARLAR',
     'all_tele_projects'=>'Barcha Teleloyihalar',
     'see'=>"Ko'rish",
+    'choose_language'=>'Tilni tanlang',
+    'favorite'=>'SEVIMLI',
 
     'numbers-report'=>'AMUWDARYOTV TELEKANALI RAQAMLAR HISOBOTI',
     'item-sub-heading-1'=>'Oʼzbekiston Respublikasi Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligi tomonidan berilgan',

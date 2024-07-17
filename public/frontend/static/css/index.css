@@ -67,6 +67,62 @@ top:45% !important;
 .v-card__actions .v-btn + .v-btn {
   margin-left: 8px;
 }
+
+/* Language Switch Box */
+
+.lang-switch_box {
+  position: relative;
+  cursor: pointer;
+  border-left: 1px solid #ddd;
+  padding: 10px;
+
+  transition: color 0.3s;
+}
+
+.lang-switch_box:hover {
+  color: #06c771;
+}
+
+.lang-switch_box .lang-switch__drop-down {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  left: 100%;
+  top: -50%;
+
+  border-radius: 6px;
+  box-shadow: 1px 5px 15px rgba(0, 0, 0, 0.1);
+  padding: 2px 0;
+
+  transform: translate(-100%, 15%);
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+
+  transition: opacity 0.4s, visibility 0.4s, transform 0.4s;
+}
+
+.lang-switch_box:hover .lang-switch__drop-down {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: all;
+
+  transform: translate(0, 15%);
+}
+
+.lang-switch__drop-down li {
+  padding: 5px 8px;
+}
+
+.lang-switch__drop-down li a {
+  color: #333;
+  transition: color 0.4s;
+}
+
+.lang-switch__drop-down li:hover a {
+  color: #06c771;
+}
 /* Themes */
 .theme--light.v-sheet {
   background-color: #fff;
