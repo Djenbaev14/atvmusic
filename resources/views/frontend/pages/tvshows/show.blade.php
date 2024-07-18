@@ -1,7 +1,5 @@
 @extends('frontend.layouts.main')
 @section('main-content')
-  
-  
   <main class="main-content">
     <div class="container">
       <div class="content-inner">
@@ -41,10 +39,8 @@
       </div>
     </div>
   </main>
-
 @endsection
 @push('css')
-    
   <link rel="stylesheet" href="{{asset('src/styles/pages/tv-shows.css')}}" />
   <link href="{{asset('src/styles/pages/123.css')}}" rel="stylesheet" />
 @endpush
