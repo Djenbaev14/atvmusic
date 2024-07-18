@@ -46,5 +46,5 @@
 @push('css')
     
   <link rel="stylesheet" href="{{asset('src/styles/pages/tv-shows.css')}}" />
-  <link href="{{asset('frontend/static/css/123.css')}}" rel="stylesheet" />
+  <link href="{{asset('src/styles/pages/123.css')}}" rel="stylesheet" />
 @endpush

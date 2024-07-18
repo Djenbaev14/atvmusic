@@ -90,9 +90,11 @@
                                 <div class="mb-3">
                                     <label for="formFile" class="form-label">Формат (.jpg, .jpeg, .png)</label>
                                     <input class="form-control"
-                                        value="{{ asset(old('image') ? old('image') : 'images/' . $slide->image) }}"
-                                        type="file" name="image" id="image" onchange="previewFile()"
+                                    src="/images/{{$slide->image}}"
+                                        {{-- value="{{ asset(old('image') ? old('image') : 'images/' . $slide->image) }}" --}}
+                                        type="file" id="image" onchange="previewFile()"
                                         accept="image/png, image/gif, image/jpeg">
+                                        <input type="text" class="form-control" id="image" name="image" value="{{ old('image', $slide->image) }}" readonly>
                                     @error('image')
                                         <p class="help-block text-danger">{{ $message }}</p>
                                     @enderror
