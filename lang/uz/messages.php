@@ -19,6 +19,8 @@ return [
     'see'=>"Ko'rish",
     'choose_language'=>'Tilni tanlang',
     'favorite'=>'SEVIMLI',
+    'bizmedia'=>'BizMedia online platformasida',
+    'be_closer'=>"Yaqinroq bo'l",
 
     'numbers-report'=>'AMUWDARYOTV TELEKANALI RAQAMLAR HISOBOTI',
     'item-sub-heading-1'=>'Oʼzbekiston Respublikasi Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligi tomonidan berilgan',
@@ -32,6 +34,6 @@ return [
     ',
 
     'about-tv'=>'Telekanal haqida',
-    'copyright'=>'АmudaryoTV teleradiokanali. Barcha huquqlar himoyalangan. Teleradiokanalning har qanday materiallaridan foydalanishda www.amu-site.webclub.uz havolasi koʼrsatilishi shart!'
+    'copyright'=>'"АmudaryoTV" telekanali. Barcha huquqlar himoyalangan. Telekanalning har qanday materiallaridan foydalanishda www.atvmusic.uz havolasi koʼrsatilishi shart!'
 
 ];

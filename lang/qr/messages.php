@@ -19,6 +19,8 @@ return [
     'see'=>'Kóriw',
     'choose_language'=>'Tildi saylań',
     'favorite'=>'ARDAQLÍ',
+    'bizmedia'=>'BizMedia online platformasında',
+    'be_closer'=>"Jaqınlaw bol",
 
     'numbers-report'=>'ÁMIWDARYATV TELEKANALÍ SANLAR ESABATÍ ',
     'item-sub-heading-1'=>'Ózbekstan Respublikası Málimleme texnologiyaları hám kommunikaciyaların rawajlandırıw ministrligi tárepinen berilgen',
@@ -35,6 +37,6 @@ return [
     ',
 
     'about-tv'=>'Telekanal haqqında',
-    'copyright'=>'ÁmiwdáryaTV teleradiokanali. Barlıq huqıqlar qorǵalǵan. Teleradiokanaldıń hár qanday materiallarınan paydalanıwda www.atvmusic.uz siltemesi kórsetiliwi shárt!'
+    'copyright'=>'"АmudaryoTV" telekanali. Barlıq huqıqlar qorǵalǵan. Teleradiokanaldıń hár qanday materiallarınan paydalanıwda www.atvmusic.uz siltemesi kórsetiliwi shárt!'
 
 ];

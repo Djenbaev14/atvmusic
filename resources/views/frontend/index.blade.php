@@ -363,7 +363,7 @@
                               </div>
                               <div class="live-card__bottom">
                                 <a
-                                  href="https://www.youtube.com/c/ATVtelekanali"
+                                  href="https://www.youtube.com/@ATVtelekanali"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                   style="
@@ -395,7 +395,7 @@
                               </div>
                               <div class="live-card__bottom">
                                 <a
-                                  href="https://mediabay.uz/tv/832/ATV"
+                                  href="https://www.youtube.com/@ATVtelekanali"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                   style="

@@ -5,7 +5,7 @@
       <a href="/">
         <img src="{{asset('src/images/logo/logo.png')}}" alt="logo" />
       </a>
-      <a href="#">{{__('messages.about-tv')}}</a>
+      <a href="http://atvmusic.uz/about">{{__('messages.about-tv')}}</a>
     </div>
     <p class="desc">
       {{__('messages.copyright')}}
