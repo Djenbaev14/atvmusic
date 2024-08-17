@@ -76,7 +76,7 @@
                   <p class="top-title">YOUTUBE</p>
                   <p class="title">AmuwdaryoTv YouTube</p>
                 </div>
-                <a href="https://www.youtube.com/@ATVtelekanali" class="card_bottom link"> {{__('messages.be_closer')}} </a>
+                <a href="https://www.youtube.com/@ATVtelekanali" class="card_bottom link"> {{__('messages.channel_switch')}} </a>
                 <img
                   src="./src/images/tv-cards/tv-card-1.png"
                   alt="card image"
@@ -87,7 +87,7 @@
                   <p class="top-title">BIZMEDIA</p>
                   <p class="title">AmudaryoTV {{__('messages.bizmedia')}}</p>
                 </div>
-                <a href="https://bizmedia.uz/tv/126" class="card_bottom link"> {{__('messages.be_closer')}} </a>
+                <a href="https://bizmedia.uz/tv/126" class="card_bottom link"> {{__('messages.watch')}} </a>
                 <img
                   src="./src/images/tv-cards/tv-card-2.png"
                   alt="card image"

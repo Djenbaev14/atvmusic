@@ -21,6 +21,8 @@ return [
     'favorite'=>'SEVIMLI',
     'bizmedia'=>'BizMedia online platformasida',
     'be_closer'=>"Yaqinroq bo'l",
+    'channel_switch'=>"Kanalga o'tish",
+    'watch'=>'Tomosha qilish',
 
     'numbers-report'=>'AMUWDARYOTV TELEKANALI RAQAMLAR HISOBOTI',
     'item-sub-heading-1'=>'Oʼzbekiston Respublikasi Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligi tomonidan berilgan',
