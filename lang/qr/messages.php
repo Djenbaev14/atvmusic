@@ -37,6 +37,12 @@ return [
 
      keletuģın hár túrli telekóngilochar janrlar.
     ',
+    
+    'arxiv'=>"Telekórsetiwler arxivin",
+    'tomosha'=>'ta tamasha qılıń',
+    'tabrik'=>"Jaqınlarıńızdı tuwılǵan kúni hám quwanıshlı sánelerde 'AmudaryaTv' telekanalı arqalı qutlıqlań",
+    'atv-tabrik'=>'ATV ǵa qutlıqlaw',
+    'smartfon'=>'Telekanaldı smartfonıńızda tamasha etiń ',
 
     'about-tv'=>'Telekanal haqqında',
     'copyright'=>'"АmudaryoTV" telekanali. Barlıq huqıqlar qorǵalǵan. Telekanaldıń hár qanday materiallarınan paydalanıwda www.atvmusic.uz siltemesi kórsetiliwi shárt!'

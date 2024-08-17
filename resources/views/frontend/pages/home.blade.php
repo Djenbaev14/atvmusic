@@ -179,13 +179,16 @@
     <section class="section-report">
       <div class="container">
         <div class="top">
-          <h4 class="title">{{__('messages.numbers-report')}}</h4>
+          <p class="desc">{{__('messages.arxiv')}} <a href="https://www.youtube.com/c/ATVtelekanali">YouTube</a> {{__('messages.tomosha')}}!</p>
+          <p class="desc">{{__('messages.tabrik')}} - <a href="https://t.me/ATVtabrik">{{__('messages.atv-tabrik')}}</a></p>
+          <p class="desc">{{__('messages.smartfon')}}! <a href="https://mediabay.uz/tv/832/ATV">Mediabay</a>  , <a href="https://bizmedia.uz/tv/126">BizMedia</a> , <a href="https://t.me/amunewsuz?livestream">Telegram</a></p>
+          {{-- <h4 class="title">{{__('messages.numbers-report')}}</h4>
           <p class="desc">
             {{__('messages.item-sub-heading-1')}}<b>AA
               №0006322</b> {{__('messages.item-sub-heading-2')}}
-          </p>
+          </p> --}}
         </div>
-        <div class="section-inner">
+        {{-- <div class="section-inner">
           <div class="report-grid-box">
             <div class="report-box">
               <img src="./src/images/reports/report-1.png" alt="report image" />
@@ -224,7 +227,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> --}}
       </div>
     </section>
     <!-- =================================== -->

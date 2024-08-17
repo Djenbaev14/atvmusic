@@ -35,6 +35,13 @@ return [
     'item-number-name-4'=>'YEFIRDA ZAMONAVIY JAHON TENDENTSIYALARIGA MOS KELADIGAN TURLI XIL TELEKOʼNGILOCHAR JANRLAR TAQDIM ETILADI.
     ',
 
+    'arxiv'=>"Teleko'rsatuvlar arxivini",
+    'tomosha'=>'da tomosha qiling',
+    'tabrik'=>"Yaqinlaringizni tug'ilgan kuni va quvonchli sanalarda 'AmudaryoTv' telekanali orqali tabriklang",
+    'atv-tabrik'=>'ATV ga tabrik',
+    'smartfon'=>'Telekanalni smartfoningizda tomosha qiling',
+
+
     'about-tv'=>'Telekanal haqida',
     'copyright'=>'"АmudaryoTV" telekanali. Barcha huquqlar himoyalangan. Telekanalning har qanday materiallaridan foydalanishda www.atvmusic.uz havolasi koʼrsatilishi shart!'
 
