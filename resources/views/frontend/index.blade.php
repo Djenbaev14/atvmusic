@@ -277,7 +277,7 @@
                           }
                  </style>
                 <video id="my-video" class="video-js" autoplay controls preload="auto"   data-setup="{}">
-                  <source src="https://st4.mediabay.uz/AMU_TV/index.m3u8" type="application/x-mpegURL">
+                  <source src="rtmp://fl.biztv.media:1935/static/AmudaryoTV" type="application/x-mpegURL">
                   <!-- Additional video sources (if needed) -->
                   <!-- <source src="video.webm" type="video/webm"> -->
                   <!-- <source src="video.ogv" type="video/ogg"> -->
